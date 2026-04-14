@@ -1,0 +1,16 @@
+StudentID,Gender,MathScore,ReadingScore,WritingScore,Attendance
+S001,Male,78,85,80,90
+S002,Female,92,88,95,95
+S003,Male,67,72,70,85
+S004,Female,85,,88,92
+S005,Male,90,91,89,96
+S006,Female,55,60,58,80
+S007,Male,102,75,70,88
+S008,Female,76,abc,79,90
+S009,Male,88,84,86,
+S010,Female,73,70,75,89
+S011,Male,,65,60,78
+S012,Female,81,79,85,93
+S013,Male,69,74,72,82
+S014,Female,95,98,100,97
+S015,Male,60,58,55,70
